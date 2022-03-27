@@ -24,5 +24,5 @@ Raymon Anthony Doane had won 11,606 votes, which was 3.1% of total casts
 
 
 ## Election-Audit Summary
-### proposal
+### possible business proposals
 It was well shown that this script can find various information very quickly including the total number of votes, number of votes for county and candidates as well as percentage of each candidate's vote from the election. It can also be useful for other elections including presidential election since it can allow Election commission to quickly find the percentage of votes for party as well as candidates. Furthermore, it can be useful for exit poll, which allows parties to analyze various things for upcoming elections.  
